@@ -1,6 +1,6 @@
 # Monitoría DDYA (Diseño de Datos y Algoritmos)
 
-Material elaborado como monitor del curso Diseño de Datos y Algoritmos (DDYA), homologado con Algoritmos y Estructuras de Datos (AYED): siete autoestudios en Jupyter Notebook, uno por cada tema del curso.
+Material elaborado como monitor del curso Diseño de Datos y Algoritmos (DDYA), homologado con Algoritmos y Estructuras de Datos (AYED): siete autoestudios en Jupyter Notebook, uno por cada tema del curso, y las arenas de competitive programming de cada tercio.
 
 ## Autor
 
@@ -31,6 +31,16 @@ jupyter notebook Autoestudios/DDYA-Autoestudio-1-incremental.ipynb
 
 (y de forma análoga para cada uno de los demás autoestudios)
 
+## Arenas
+
+| Tercio | Enunciados |
+|---|---|
+| [T1](Arenas/T1/README.md) | Introducción, divide y conquista, programación dinámica |
+| T2 | Estructuras lineales, árboles, grafos (pendiente) |
+| T3 | Montones y colas de prioridad, hash/disjoint sets, MST, caminos mínimos (pendiente) |
+
 ## Contexto
 
 Cada notebook fue publicado a los estudiantes en su fecha de apertura, como guía de autoestudio previa a la sesión de monitoría correspondiente. Se incluyen explicaciones del tema y ejercicios resueltos en Python.
+
+Las arenas son ejercicios de programación competitiva de refuerzo, basados en el libro *Competitive Programming 3* y en jueces en línea (UVa Online Judge); ver el README de cada tercio para el detalle de temas y enunciados.
