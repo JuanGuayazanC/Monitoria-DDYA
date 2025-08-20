@@ -1,6 +1,6 @@
 # Monitoría DDYA (Diseño de Datos y Algoritmos)
 
-Material elaborado como monitor del curso Diseño de Datos y Algoritmos (DDYA), homologado con Algoritmos y Estructuras de Datos (AYED): siete autoestudios en Jupyter Notebook, uno por cada tema del curso, y las arenas de competitive programming de cada tercio.
+Siete autoestudios en Jupyter Notebook, uno por cada tema del curso, y las arenas de competitive programming de cada tercio.
 
 ## Autor
 

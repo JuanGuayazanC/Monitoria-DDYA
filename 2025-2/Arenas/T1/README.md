@@ -1,6 +1,6 @@
 # Arena T1 (DDYA / AYED)
 
-Enunciados de la Arena del primer tercio, entregados como monitor del curso Diseño de Datos y Algoritmos (DDYA), homologado con Algoritmos y Estructuras de Datos (AYED). Basados en el libro *Competitive Programming 3* (con pistas de solución en varios casos) y en jueces en línea (UVa Online Judge); recurso adicional para depuración: [uDebug](https://www.udebug.com/).
+Enunciados de la Arena del primer tercio. Basados en el libro *Competitive Programming 3* (con pistas de solución en varios casos) y en jueces en línea (UVa Online Judge); recurso adicional para depuración: [uDebug](https://www.udebug.com/).
 
 ## Ejercicios por tema
 
