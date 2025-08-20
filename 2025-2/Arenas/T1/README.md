@@ -23,7 +23,7 @@ Enunciados de la Arena del primer tercio. Basados en el libro *Competitive Progr
 
 | Letra | Origen | Título | Archivo |
 |---|---|---|---|
-| A | UVA 11172 | Relational Operator | *(no disponible — pendiente de reenvío)* |
+| A | UVA 11172 | Relational Operator | [A-Relational-Operator.pdf](A-Relational-Operator.pdf) |
 | B | UVA 272 | TEX Quotes | [B-TEX-Quotes.pdf](B-TEX-Quotes.pdf) |
 | C | UVA 11547 | Automatic Answer | [C-Automatic-Answer.pdf](C-Automatic-Answer.pdf) |
 | D | UVA 11727 | Cost Cutting | [D-Cost-Cutting.pdf](D-Cost-Cutting.pdf) |
