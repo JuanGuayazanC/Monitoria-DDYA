@@ -36,7 +36,7 @@ jupyter notebook Autoestudios/DDYA-Autoestudio-1-incremental.ipynb
 | Tercio | Enunciados |
 |---|---|
 | [T1](Arenas/T1/README.md) | Introducción, divide y conquista, programación dinámica |
-| T2 | Estructuras lineales, árboles, grafos (pendiente) |
+| [T2](Arenas/T2/README.md) | Estructuras lineales, árboles, grafos |
 | T3 | Montones y colas de prioridad, hash/disjoint sets, MST, caminos mínimos (pendiente) |
 
 ## Contexto
