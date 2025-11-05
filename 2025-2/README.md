@@ -37,10 +37,14 @@ jupyter notebook Autoestudios/DDYA-Autoestudio-1-incremental.ipynb
 |---|---|
 | [T1](Arenas/T1/README.md) | Introducción, divide y conquista, programación dinámica |
 | [T2](Arenas/T2/README.md) | Estructuras lineales, árboles, grafos |
-| T3 | Montones y colas de prioridad, hash/disjoint sets, MST, caminos mínimos (pendiente) |
+| [T3](Arenas/T3/README.md) | Montones y colas de prioridad, hash/disjoint sets, MST, caminos mínimos |
 
 ## Contexto
 
 Cada notebook fue publicado a los estudiantes en su fecha de apertura, como guía de autoestudio previa a la sesión de monitoría correspondiente. Se incluyen explicaciones del tema y ejercicios resueltos en Python.
 
 Las arenas son ejercicios de programación competitiva de refuerzo, basados en el libro *Competitive Programming 3* y en jueces en línea (UVa Online Judge); ver el README de cada tercio para el detalle de temas y enunciados.
+
+## Plantilla de solución
+
+Los estudiantes entregaban las soluciones de cada ejercicio en un notebook basado en la plantilla [formato_soluciones.ipynb](formato_soluciones.ipynb) (enunciado, especificación, diseño, código, pruebas propias y de rendimiento, retrospectiva y solución en el juez).
