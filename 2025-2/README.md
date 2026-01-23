@@ -1,6 +1,6 @@
 # Monitoría DDYA (Diseño de Datos y Algoritmos)
 
-Siete autoestudios en Jupyter Notebook, uno por cada tema del curso, y las arenas de competitive programming de cada tercio.
+Siete autoestudios en Jupyter Notebook, uno por cada tema del curso, las arenas de competitive programming de cada tercio, el laboratorio introductorio, el formato de solución de preparcial, y las notas de clase.
 
 ## Autor
 
@@ -48,3 +48,25 @@ Las arenas son ejercicios de programación competitiva de refuerzo, basados en e
 ## Plantilla de solución
 
 Los estudiantes entregaban las soluciones de cada ejercicio en un notebook basado en la plantilla [formato_soluciones.ipynb](formato_soluciones.ipynb) (enunciado, especificación, diseño, código, pruebas propias y de rendimiento, retrospectiva y solución en el juez).
+
+## Laboratorios
+
+| Laboratorio | Tema |
+|---|---|
+| [Laboratorio 1](Laboratorios/Laboratorio-1/README.md) | Introducción a Jupyter/Colab |
+
+## Preparciales
+
+Formato base para la solución de preparciales: [formato_solucion_parcial.ipynb](Preparciales/formato_solucion_parcial.ipynb) (configuración de Jupyter/Colab, enunciado, especificación, diseño, análisis de complejidad, código, pruebas funcionales y de rendimiento).
+
+## Parciales
+
+| Parcial | Apertura |
+|---|---|
+| Primer parcial | 2026-02-25 |
+| Segundo parcial | 2026-04-11 |
+| [Final](Parciales/Final/README.md) | 2026-05-20 |
+
+## Notas de clase
+
+Apuntes semana a semana, ver [NotasDeClase/README.md](NotasDeClase/README.md).
