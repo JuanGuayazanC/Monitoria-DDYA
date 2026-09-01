@@ -9,7 +9,7 @@ JUAN SEBASTIÁN GUAYAZÁN CLAVIJO
 Diseño de Datos y Algoritmos (DDYA-01)
 Decanatura Ingeniería de Sistemas
 Escuela Colombiana de Ingeniería Julio Garavito
-2026-1
+2025-2
 
 ## Autoestudios
 
