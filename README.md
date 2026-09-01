@@ -15,4 +15,4 @@ Escuela Colombiana de Ingeniería Julio Garavito
 | Semestre | Contenido |
 |---|---|
 | [2025-2](2025-2/README.md) | Autoestudios, arenas (T1-T3), laboratorio 1, parcial final |
-| 2026-1 | *(en curso)* |
+| 2026-2 | *(en curso)* |
