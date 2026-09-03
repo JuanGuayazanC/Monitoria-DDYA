@@ -20,27 +20,29 @@ Enunciados de la Arena del segundo tercio. Basados en el libro *Competitive Prog
 
 ## Enunciados
 
-| Letra | Origen | Título | Archivo |
-|---|---|---|---|
-| A | UVA 673 | Parentheses Balance | [A-Parentheses-Balance.pdf](A-Parentheses-Balance.pdf) |
-| B | UVA 514 | Rails | [B-Rails.pdf](B-Rails.pdf) |
-| C | UVA 11786 | Global Raining at Bididibus | [C-Global-Raining-at-Bididibus.pdf](C-Global-Raining-at-Bididibus.pdf) |
-| D | UVA 127 | "Accordian" Patience | [D-Accordian-Patience.pdf](D-Accordian-Patience.pdf) |
-| E | UVA 732 | Anagrams by Stack | [E-Anagrams-by-Stack.pdf](E-Anagrams-by-Stack.pdf) |
-| F | UVA 12100 | Printer Queue | [F-Printer-Queue.pdf](F-Printer-Queue.pdf) |
-| G | UVA 11034 | Ferry Loading IV | [G-Ferry-Loading-IV.pdf](G-Ferry-Loading-IV.pdf) |
-| H | UVA 10901 | Ferry Loading III | [H-Ferry-Loading-III.pdf](H-Ferry-Loading-III.pdf) |
-| I | UVA 10935 | Throwing cards away I | [I-Throwing-Cards-Away-I.pdf](I-Throwing-Cards-Away-I.pdf) |
-| J | UVA 540 | Team Queue | [J-Team-Queue.pdf](J-Team-Queue.pdf) |
-| K | UVA 10172 | The Lonesome Cargo Distributor | [K-The-Lonesome-Cargo-Distributor.pdf](K-The-Lonesome-Cargo-Distributor.pdf) |
-| L | UVA 11988 | Broken Keyboard (a.k.a. Beiju Text) | [L-Broken-Keyboard.pdf](L-Broken-Keyboard.pdf) |
-| M | UVA 536 | Tree Recovery | [M-Tree-Recovery.pdf](M-Tree-Recovery.pdf) |
-| N | UVA 10701 | Pre, in and post | [N-Pre-In-and-Post.pdf](N-Pre-In-and-Post.pdf) |
-| O | UVA 699 | The Falling Leaves | [O-The-Falling-Leaves.pdf](O-The-Falling-Leaves.pdf) |
-| P | UVA 548 | Tree | [P-Tree.pdf](P-Tree.pdf) |
-| Q | UVA 712 | S-Trees | [Q-S-Trees.pdf](Q-S-Trees.pdf) |
-| R | UVA 10004 | Bicoloring | [R-Bicoloring.pdf](R-Bicoloring.pdf) |
-| S | UVA 118 | Mutant Flatworld Explorers | [S-Mutant-Flatworld-Explorers.pdf](S-Mutant-Flatworld-Explorers.pdf) |
-| T | UVA 280 | Vertex | [T-Vertex.pdf](T-Vertex.pdf) |
-| U | UVA 12442 | Forwarding Emails | [U-Forwarding-Emails.pdf](U-Forwarding-Emails.pdf) |
-| V | UVA 11902 | Dominator | [V-Dominator.pdf](V-Dominator.pdf) |
+| Letra | Origen | Título |
+|---|---|---|
+| A | UVA 673 | Parentheses Balance |
+| B | UVA 514 | Rails |
+| C | UVA 11786 | Global Raining at Bididibus |
+| D | UVA 127 | "Accordian" Patience |
+| E | UVA 732 | Anagrams by Stack |
+| F | UVA 12100 | Printer Queue |
+| G | UVA 11034 | Ferry Loading IV |
+| H | UVA 10901 | Ferry Loading III |
+| I | UVA 10935 | Throwing cards away I |
+| J | UVA 540 | Team Queue |
+| K | UVA 10172 | The Lonesome Cargo Distributor |
+| L | UVA 11988 | Broken Keyboard (a.k.a. Beiju Text) |
+| M | UVA 536 | Tree Recovery |
+| N | UVA 10701 | Pre, in and post |
+| O | UVA 699 | The Falling Leaves |
+| P | UVA 548 | Tree |
+| Q | UVA 712 | S-Trees |
+| R | UVA 10004 | Bicoloring |
+| S | UVA 118 | Mutant Flatworld Explorers |
+| T | UVA 280 | Vertex |
+| U | UVA 12442 | Forwarding Emails |
+| V | UVA 11902 | Dominator |
+
+Los PDFs con los enunciados se mantienen fuera de este repositorio (solo código y notebooks).
