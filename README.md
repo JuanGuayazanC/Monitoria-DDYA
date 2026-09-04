@@ -16,3 +16,7 @@ Escuela Colombiana de Ingeniería Julio Garavito
 |---|---|
 | [2025-2](2025-2/README.md) | Autoestudios, arenas (T1-T3), laboratorio 1, parcial final |
 | 2026-2 | *(en curso)* |
+
+## Referencia
+
+[Microcurrículo-DDYA.md](Microcurriculo-DDYA.md) — microcurrículo oficial de la asignatura (Escuela Colombiana de Ingeniería Julio Garavito).
