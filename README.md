@@ -30,7 +30,7 @@ El curso se organiza en estudio dirigido (autoestudios semanales), clases, labor
 | Semestre | Contenido |
 |---|---|
 | [2025-2](2025-2/README.md) | Autoestudios, arenas (T1-T3), laboratorio 1, parcial final |
-| 2026-2 | *(en curso)* |
+| [2026-2](2026-2/README.md) | Notas de clase: incremental, recursión, dividir y conquistar, programación dinámica |
 
 ## Referencia
 
